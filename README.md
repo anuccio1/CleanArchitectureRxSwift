@@ -1,4 +1,6 @@
 # Clean architecture with [RxSwift](https://github.com/ReactiveX/RxSwift)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fanuccio1%2FCleanArchitectureRxSwift.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fanuccio1%2FCleanArchitectureRxSwift?ref=badge_shield)
+
 
 ## Contibutions are welcome and highly appreciated!!
 You can do this by:
@@ -263,3 +265,7 @@ The example app is Post/TODOs app which uses `Realm` and `CoreData` at the same 
 ###Any questions?
 
 * ping me on [Twitter](https://twitter.com/SergDort)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fanuccio1%2FCleanArchitectureRxSwift.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fanuccio1%2FCleanArchitectureRxSwift?ref=badge_large)
